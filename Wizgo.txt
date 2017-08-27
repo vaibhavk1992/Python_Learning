@@ -1,0 +1,5 @@
+Wizgo
+HOw to add two linked list
+how to web application works like client server architecture.How the content is retrieved from server?What is the type of content retrived from server?
+What is semaphone
+what are genrators
